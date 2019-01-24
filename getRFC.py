@@ -46,7 +46,6 @@ if __name__ == '__main__':
     dirPath = "RFC"
     startIndex = 1
     #startIndex = int(raw_input('start : '))
-    #endIndex = 6786
     endIndex = 8000
     #endIndex = int(raw_input('end : '))
     if startIndex > endIndex:
