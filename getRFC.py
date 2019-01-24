@@ -44,7 +44,7 @@ def del_specify_md5(md5,file_path):
 if __name__ == '__main__':
     addr = 'http://www.networksorcery.com/enp/rfc'
     dirPath = "RFC"
-    startIndex = 6787
+    startIndex = 1
     #startIndex = int(raw_input('start : '))
     #endIndex = 6786
     endIndex = 8000
